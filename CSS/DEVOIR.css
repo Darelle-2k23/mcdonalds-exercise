@@ -1,0 +1,84 @@
+.maindiv1{
+    display: flex;
+justify-content: center;
+padding: 30px;
+margin-left: 20px;
+}
+
+    
+.imgdiv{
+    width: 30%;
+
+}
+.textdiv1{
+    margin-right: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+border-radius: 5%;
+box-shadow:1px 2px 3px ;
+padding: 10px;
+}
+
+.textdiv2{
+    margin-right: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5%;
+    padding: 10px;
+    box-shadow: 1px 2px 2px;
+    margin-left: 20px;
+}
+button{
+    background-color: rgb(245, 25, 98);
+    border: none;
+border-radius: 5%;
+padding: 10px;
+margin-left: 15%;
+}
+
+.maindiv2{
+    
+        display: flex;
+    justify-content: center;
+    padding: 35px;
+    margin-left: 20px;
+    }
+.datamage1{
+    width: 40%;
+}
+.datamage2{
+    width: 45%;
+}
+
+.bigdiv{
+    display: flex;
+   justify-content: center;
+   margin: 20px;
+}
+.shrekmage{
+    width: 60px;
+    border-radius: 100%;
+     
+}
+
+.shrek{
+    
+    border-radius: 15px;
+width: 60%;
+padding: 10px;
+box-shadow: 1px 2px 2px grey;
+text-align: center;
+background: linear-gradient(#C6EA8D, #FE90AF);
+}
+.cutie{
+
+    border-radius: 15px;
+width: 60%;
+padding: 10px;
+box-shadow: 1px 2px 2px;
+margin-left: 20px;
+text-align: center;
+background: linear-gradient(rgb(245, 175, 46), #FE90AF);
+}
+body{
+    background: linear-gradient(#A9F1DF, rgb(239, 241, 75));
+}
+

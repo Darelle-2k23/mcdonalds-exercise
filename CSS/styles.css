@@ -1,0 +1,32 @@
+p{
+    color: whitesmoke;
+}
+.maindiv{
+    display: flex;
+}
+a{
+    color: white;
+}
+.bigdiv{
+    display: flex;
+}
+p{
+    margin-left: 10px;
+}
+.gameimages{
+    display: flex;
+}
+button {
+    background-color:rgb(170, 3, 3); 
+     width: 15%;
+      border: 1px;
+     padding: 20px;
+     border-radius: 10px;
+}
+
+
+
+
+
+
+

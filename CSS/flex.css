@@ -1,0 +1,52 @@
+.flexc{
+
+    display: flex;   
+    
+     
+    margin: auto;
+}
+.divs{
+    background-color:aliceblue ;
+    padding: 40px;
+    margin: 5px;
+
+}
+body{
+    background-color: chocolate ;
+}
+
+
+p{
+    padding: 20px;
+font-family: Arial, Helvetica, sans-serif;
+text-transform: capitalize;
+}
+li{
+    padding: 10px;
+background-image: url(../IMAGES/control\ buttons.jfif);
+background-size: 26px;
+background-position: 0 0;
+background-repeat: no-repeat;
+
+}
+p
+{
+    
+    text-indent: 20px;
+    text-shadow: 1px 2px 3px blue;
+    line-height: 1;
+}
+  h2{
+    text-decoration-line: underline ;
+    text-transform: lowercase;
+  }
+h3{
+    text-decoration-line: overline underline ;
+    text-transform: uppercase;
+}
+h4{
+    text-decoration-line: line-through;
+}
+.dropcap{
+    float: left;
+}

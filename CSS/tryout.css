@@ -1,0 +1,36 @@
+.menubar ul{
+    
+    display: inline-flex;
+    list-style: none;
+}
+*{
+    padding: 0px;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+body
+{
+    background-image: url(../IMAGES/Shrek\ Meme\ -\ IdleMeme\ -\ Copy.jfif);
+    background-size: cover;
+   
+}
+.menubar{
+    background: linear-gradient(rgb(127, 250, 127), pink);
+    text-align: center;  
+}
+.menubar ul li{
+    width: 120px;
+    margin: 15px;
+    padding: 15px;
+}
+.menubar ul li a{
+    text-decoration: none;
+    color: white;
+}
+.active, .menubar ul li:hover{
+     background:linear-gradient( red, yellow);
+     border-radius: 10px;
+     
+}
