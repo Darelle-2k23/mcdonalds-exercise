@@ -1,0 +1,66 @@
+
+
+
+p{
+    color: whitesmoke;
+}
+.maindiv{
+    display: flex;
+    background-color: rgb(124, 0, 0);
+    width: 100%;
+}
+a{
+    color: white;
+}
+.bigdiv{
+    display: flex;
+}
+p{
+    margin-left: 10px;
+}
+.gameimages{
+    display: flex;
+}
+button {
+    background-color:rgb(170, 3, 3); 
+     width: 15%;
+      border: 1px;
+     padding: 10px;
+     border-radius: 10px;
+}
+
+a{
+    color: black;
+
+}
+
+.gameimages{
+margin-left: 5%;
+}
+
+.p1{
+border-left: 4px solid rgb(243, 48, 48);
+color: white;
+padding-left: 10px;
+}
+
+.p2{
+    border-left: 4px solid rgb(243, 48, 48);
+    color: white;
+    padding-left: 10px;
+    }
+
+    .p3{
+        border-left: 4px solid rgb(243, 48, 48);
+        color: white;
+        padding-left: 10px;
+        }
+
+.roblox{
+    padding-left: 60px;
+}
+
+.games{
+    margin-left: 20px;
+}
+
